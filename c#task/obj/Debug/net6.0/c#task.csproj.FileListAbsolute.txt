@@ -1,0 +1,14 @@
+C:\Users\Honor MagicBook\Downloads\c#task\c#task\obj\Debug\net6.0\c#task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor MagicBook\Downloads\c#task\c#task\obj\Debug\net6.0\c#task.AssemblyInfoInputs.cache
+C:\Users\Honor MagicBook\Downloads\c#task\c#task\obj\Debug\net6.0\c#task.AssemblyInfo.cs
+C:\Users\Honor MagicBook\Downloads\c#task\c#task\obj\Debug\net6.0\c#task.csproj.CoreCompileInputs.cache
+C:\Users\Honor MagicBook\Downloads\c#task\c#task\bin\Debug\net6.0\c#task.exe
+C:\Users\Honor MagicBook\Downloads\c#task\c#task\bin\Debug\net6.0\c#task.deps.json
+C:\Users\Honor MagicBook\Downloads\c#task\c#task\bin\Debug\net6.0\c#task.runtimeconfig.json
+C:\Users\Honor MagicBook\Downloads\c#task\c#task\bin\Debug\net6.0\c#task.dll
+C:\Users\Honor MagicBook\Downloads\c#task\c#task\bin\Debug\net6.0\c#task.pdb
+C:\Users\Honor MagicBook\Downloads\c#task\c#task\obj\Debug\net6.0\c#task.dll
+C:\Users\Honor MagicBook\Downloads\c#task\c#task\obj\Debug\net6.0\refint\c#task.dll
+C:\Users\Honor MagicBook\Downloads\c#task\c#task\obj\Debug\net6.0\c#task.pdb
+C:\Users\Honor MagicBook\Downloads\c#task\c#task\obj\Debug\net6.0\c#task.genruntimeconfig.cache
+C:\Users\Honor MagicBook\Downloads\c#task\c#task\obj\Debug\net6.0\ref\c#task.dll
